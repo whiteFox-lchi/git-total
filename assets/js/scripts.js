@@ -1,3 +1,1 @@
-alert('ХАХАХА! я снова сломал ваш сайт!');
-
-
+console.error('console log alert');
